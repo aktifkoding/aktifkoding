@@ -40,8 +40,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-![](https://github.com/aktifkoding/aktifkoding/blob/master/generated/overview.svg)
-![](https://github.com/aktifkoding/aktifkoding/blob/master/generated/languages.svg)
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
 
 ## 🚀 Projects
 
