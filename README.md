@@ -40,7 +40,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aktifkoding&show_icons=true&theme=gotham" alt="aktifkoding" />
+![](https://github.com/aktifkoding/aktifkoding/blob/master/generated/overview.svg)
+![](https://github.com/aktifkoding/aktifkoding/blob/master/generated/languages.svg)
+
 ## 🚀 Projects
 
 ### [Aktif Koding](https://github.com/aktifkoding/aktifkoding)
