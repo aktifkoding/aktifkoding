@@ -59,7 +59,7 @@ A **RFID-based school pickup system** built with **Laravel**, designed to track 
 
 ## 🔗 Let's Connect!
 - [Twitter](https://twitter.com/aktifkoding)
-- [YouTube](https://www.youtube.com/channel/aktifkodingonline)
+- [YouTube](https://www.youtube.com/@aktifkodingonline)
 - [Website](https://aktifkoding.com)
 
 ## 📫 How to Reach Me
