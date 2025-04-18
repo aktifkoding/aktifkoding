@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Hi there 👋, I'm Eka Prasetyo, the creator of **Aktif Koding**!
-
 Welcome to my GitHub profile! I'm passionate about **technology**, **programming**, and **education**. As a **web developer** and **tech educator**, I enjoy building powerful applications and sharing my knowledge with others.
 
 ![Aktif Koding Logo](https://your-profile-image-url.com)
