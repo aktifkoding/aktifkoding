@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm passionate about **technology**, **programming
 </div>
 
 <h4> Find me on social media for business or work. </h4>
-<a href="https://instagram.com/aktifkoding" target=_blank> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="https://instagram.com/aktifkoding" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 
 
 📊 **this week i spent my time on:**
